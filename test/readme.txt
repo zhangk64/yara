@@ -1,0 +1,1 @@
+yara检测本地webshell测试用例（运行环境ubuntu 18.04，python2.7），rules为规则目录，webshell为待检测目录。
